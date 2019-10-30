@@ -13,6 +13,7 @@ public class FunctionalTest {
 	@BeforeTest
 	public void initialSetUp()
 	{
+		System.out.println("Build Number:" + System.getenv("BUILD_NUMBER"));
 		driver = getWebDriver();
 		driver.manage().window().maximize();
 	}

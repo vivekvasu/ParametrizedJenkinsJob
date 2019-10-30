@@ -2,52 +2,52 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="tests" duration-ms="21240" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:45Z">
+  <suite name="tests" duration-ms="35614" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:27Z">
     <groups>
     </groups>
-    <test name="front-ends" duration-ms="18558" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:42Z">
+    <test name="front-endss" duration-ms="35614" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:27Z">
       <class name="tests.HomePageTest">
-        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:tests.HomePageTest@343f4d3d]" name="initialSetUp" is-config="true" duration-ms="9663" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:33Z">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:tests.HomePageTest@204f30ec]" name="initialSetUp" is-config="true" duration-ms="26818" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialSetUp -->
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.HomePageTest@343f4d3d]" name="firstTest" duration-ms="6893" started-at="2019-10-22T16:45:33Z" finished-at="2019-10-22T16:45:40Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.HomePageTest@204f30ec]" name="firstTest" duration-ms="5686" started-at="2019-10-30T16:46:18Z" finished-at="2019-10-30T16:46:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="1954" started-at="2019-10-22T16:45:40Z" finished-at="2019-10-22T16:45:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- tests.HomePageTest -->
-    </test> <!-- front-ends -->
-    <test name="front-endss" duration-ms="21032" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:45Z">
-      <class name="tests.HomePageTest">
-        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:tests.HomePageTest@204f30ec]" name="initialSetUp" is-config="true" duration-ms="9675" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialSetUp -->
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.HomePageTest@204f30ec]" name="firstTest" duration-ms="6889" started-at="2019-10-22T16:45:33Z" finished-at="2019-10-22T16:45:40Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="4428" started-at="2019-10-22T16:45:40Z" finished-at="2019-10-22T16:45:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTest@204f30ec]" name="tearDown" is-config="true" duration-ms="3066" started-at="2019-10-30T16:46:24Z" finished-at="2019-10-30T16:46:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tests.HomePageTest -->
     </test> <!-- front-endss -->
-    <test name="front-end" duration-ms="21240" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:45Z">
+    <test name="front-ends" duration-ms="35458" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:27Z">
       <class name="tests.HomePageTest">
-        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:tests.HomePageTest@d8355a8]" name="initialSetUp" is-config="true" duration-ms="9559" started-at="2019-10-22T16:45:24Z" finished-at="2019-10-22T16:45:33Z">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:tests.HomePageTest@343f4d3d]" name="initialSetUp" is-config="true" duration-ms="26798" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialSetUp -->
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.HomePageTest@d8355a8]" name="firstTest" duration-ms="6880" started-at="2019-10-22T16:45:33Z" finished-at="2019-10-22T16:45:40Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.HomePageTest@343f4d3d]" name="firstTest" duration-ms="6165" started-at="2019-10-30T16:46:18Z" finished-at="2019-10-30T16:46:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTest@d8355a8]" name="tearDown" is-config="true" duration-ms="4632" started-at="2019-10-22T16:45:40Z" finished-at="2019-10-22T16:45:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="2430" started-at="2019-10-30T16:46:24Z" finished-at="2019-10-30T16:46:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- front-ends -->
+    <test name="front-end" duration-ms="35458" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:27Z">
+      <class name="tests.HomePageTest">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:tests.HomePageTest@d8355a8]" name="initialSetUp" is-config="true" duration-ms="26802" started-at="2019-10-30T16:45:51Z" finished-at="2019-10-30T16:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:tests.HomePageTest@d8355a8]" name="firstTest" duration-ms="5689" started-at="2019-10-30T16:46:18Z" finished-at="2019-10-30T16:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTest@d8355a8]" name="tearDown" is-config="true" duration-ms="2910" started-at="2019-10-30T16:46:24Z" finished-at="2019-10-30T16:46:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
