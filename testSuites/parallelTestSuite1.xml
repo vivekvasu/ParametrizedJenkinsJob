@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="tests" parallel="tests" thread-count="3">
+	<test name="front-end">
+		<classes>
+			<class name="tests.HomePageTest">
+				<methods>
+					<include name="firstTest" />
+				</methods>
+				</class>
+		</classes>
+	</test>
+	<test name="front-ends">
+		<classes>
+			<class name="tests.HomePageTest">
+				<methods>
+					<include name="firstTest" />
+				</methods>
+				</class>
+		</classes>
+	</test>
+	<test name="front-endss">
+		<classes>
+			<class name="tests.HomePageTest">
+				<methods>
+					<include name="firstTest" />
+				</methods>
+				</class>
+		</classes>
+	</test>
+</suite>

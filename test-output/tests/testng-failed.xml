@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [tests]" parallel="tests">
+  <test thread-count="2" name="front-end(failed)" parallel="tests">
+    <classes>
+      <class name="tests.HomePageTest">
+        <methods>
+          <include name="initialSetUp"/>
+          <include name="firstTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- tests.HomePageTest -->
+    </classes>
+  </test> <!-- front-end(failed) -->
+</suite> <!-- Failed suite [tests] -->
